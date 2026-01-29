@@ -1,5 +1,6 @@
 import Cocoa
 import Carbon
+import ServiceManagement
 
 class AppDelegate: NSObject, NSApplicationDelegate {
     private var statusItem: NSStatusItem!
